@@ -1,0 +1,73 @@
+D:\New folder\petavue\task\task\obj\Debug\net8.0\task.csproj.AssemblyReference.cache
+D:\New folder\petavue\task\task\obj\Debug\net8.0\task.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\petavue\task\task\obj\Debug\net8.0\task.AssemblyInfoInputs.cache
+D:\New folder\petavue\task\task\obj\Debug\net8.0\task.AssemblyInfo.cs
+D:\New folder\petavue\task\task\obj\Debug\net8.0\task.csproj.CoreCompileInputs.cache
+D:\New folder\petavue\task\task\obj\Debug\net8.0\task.MvcApplicationPartsAssemblyInfo.cs
+D:\New folder\petavue\task\task\obj\Debug\net8.0\task.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\petavue\task\task\bin\Debug\net8.0\appsettings.Development.json
+D:\New folder\petavue\task\task\bin\Debug\net8.0\appsettings.json
+D:\New folder\petavue\task\task\bin\Debug\net8.0\task.exe
+D:\New folder\petavue\task\task\bin\Debug\net8.0\task.deps.json
+D:\New folder\petavue\task\task\bin\Debug\net8.0\task.runtimeconfig.json
+D:\New folder\petavue\task\task\bin\Debug\net8.0\task.dll
+D:\New folder\petavue\task\task\bin\Debug\net8.0\task.pdb
+D:\New folder\petavue\task\task\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\New folder\petavue\task\task\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\New folder\petavue\task\task\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\New folder\petavue\task\task\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\New folder\petavue\task\task\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\New folder\petavue\task\task\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\New folder\petavue\task\task\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\New folder\petavue\task\task\obj\Debug\net8.0\staticwebassets.build.json
+D:\New folder\petavue\task\task\obj\Debug\net8.0\staticwebassets.development.json
+D:\New folder\petavue\task\task\obj\Debug\net8.0\staticwebassets\msbuild.task.Microsoft.AspNetCore.StaticWebAssets.props
+D:\New folder\petavue\task\task\obj\Debug\net8.0\staticwebassets\msbuild.build.task.props
+D:\New folder\petavue\task\task\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.task.props
+D:\New folder\petavue\task\task\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.task.props
+D:\New folder\petavue\task\task\obj\Debug\net8.0\staticwebassets.pack.json
+D:\New folder\petavue\task\task\obj\Debug\net8.0\scopedcss\bundle\task.styles.css
+D:\New folder\petavue\task\task\obj\Debug\net8.0\task.csproj.CopyComplete
+D:\New folder\petavue\task\task\obj\Debug\net8.0\task.dll
+D:\New folder\petavue\task\task\obj\Debug\net8.0\refint\task.dll
+D:\New folder\petavue\task\task\obj\Debug\net8.0\task.pdb
+D:\New folder\petavue\task\task\obj\Debug\net8.0\task.genruntimeconfig.cache
+D:\New folder\petavue\task\task\obj\Debug\net8.0\ref\task.dll
+D:\petavue\task\task\obj\Debug\net8.0\task.csproj.AssemblyReference.cache
+D:\petavue\task\task\obj\Debug\net8.0\task.GeneratedMSBuildEditorConfig.editorconfig
+D:\petavue\task\task\obj\Debug\net8.0\task.AssemblyInfoInputs.cache
+D:\petavue\task\task\obj\Debug\net8.0\task.AssemblyInfo.cs
+D:\petavue\task\task\obj\Debug\net8.0\task.csproj.CoreCompileInputs.cache
+D:\petavue\task\task\obj\Debug\net8.0\task.MvcApplicationPartsAssemblyInfo.cs
+D:\petavue\task\task\obj\Debug\net8.0\task.MvcApplicationPartsAssemblyInfo.cache
+D:\petavue\task\task\obj\Debug\net8.0\task.dll
+D:\petavue\task\task\obj\Debug\net8.0\refint\task.dll
+D:\petavue\task\task\obj\Debug\net8.0\task.pdb
+D:\petavue\task\task\bin\Debug\net8.0\appsettings.Development.json
+D:\petavue\task\task\bin\Debug\net8.0\appsettings.json
+D:\petavue\task\task\bin\Debug\net8.0\task.exe
+D:\petavue\task\task\bin\Debug\net8.0\task.deps.json
+D:\petavue\task\task\bin\Debug\net8.0\task.runtimeconfig.json
+D:\petavue\task\task\bin\Debug\net8.0\task.dll
+D:\petavue\task\task\bin\Debug\net8.0\task.pdb
+D:\petavue\task\task\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\petavue\task\task\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\petavue\task\task\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\petavue\task\task\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\petavue\task\task\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\petavue\task\task\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\petavue\task\task\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\petavue\task\task\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\petavue\task\task\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\petavue\task\task\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\petavue\task\task\obj\Debug\net8.0\staticwebassets.build.json
+D:\petavue\task\task\obj\Debug\net8.0\staticwebassets.development.json
+D:\petavue\task\task\obj\Debug\net8.0\staticwebassets\msbuild.task.Microsoft.AspNetCore.StaticWebAssets.props
+D:\petavue\task\task\obj\Debug\net8.0\staticwebassets\msbuild.build.task.props
+D:\petavue\task\task\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.task.props
+D:\petavue\task\task\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.task.props
+D:\petavue\task\task\obj\Debug\net8.0\staticwebassets.pack.json
+D:\petavue\task\task\obj\Debug\net8.0\scopedcss\bundle\task.styles.css
+D:\petavue\task\task\obj\Debug\net8.0\task.csproj.CopyComplete
+D:\petavue\task\task\obj\Debug\net8.0\task.genruntimeconfig.cache
+D:\petavue\task\task\obj\Debug\net8.0\ref\task.dll
